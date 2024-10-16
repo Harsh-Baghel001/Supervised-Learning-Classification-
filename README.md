@@ -15,4 +15,4 @@
 "Survival Prediction: Analyzing Titanic Passenger Data using Machine Learning"[open](https://github.com/Harsh-Baghel001/Supervised-Learning-Classification-/blob/main/Titanic%20.ipynb)
 
 
-
+"Exploring Determinants of Hotel Booking Cancellations through Predictive Modeling"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Classification-/blob/main/Hotel%20Booking%20Cancellation.ipynb)
