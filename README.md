@@ -16,3 +16,6 @@
 
 
 "Exploring Determinants of Hotel Booking Cancellations through Predictive Modeling"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Classification-/blob/main/Hotel%20Booking%20Cancellation.ipynb)
+
+
+"From Health to Vehicle Insurance: Unlocking Predictive Power for Cross-Sell Success!"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Classification-/blob/main/Cross%20sell%20prediction.ipynb)
