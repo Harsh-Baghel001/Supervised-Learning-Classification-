@@ -19,3 +19,6 @@
 
 
 "From Health to Vehicle Insurance: Unlocking Predictive Power for Cross-Sell Success!"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Classification-/blob/main/Cross%20sell%20prediction.ipynb)
+
+
+"Student Depression : Predicting Student Mental Health Data-Driven Approach to Identifying Depression Risk"[Open](https://github.com/Harsh-Baghel001/Supervised-Learning-Classification-/blob/main/Student%20Depression%20.ipynb)
